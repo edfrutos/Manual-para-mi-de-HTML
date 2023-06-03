@@ -1,4 +1,4 @@
-Eugenio de Frutos
+# Repetir bloque de código
 En VSCode como puedo repetir <li><a href="#inicio">Inicio</a></li> un número de veces
 
 Si quieres repetir un bloque de código un número específico de veces en Visual Studio Code, puedes usar la función de "Expandir selección" o la extensión "Multi-Cursor" de Visual Studio Code. Aquí hay un ejemplo de cómo hacerlo:
